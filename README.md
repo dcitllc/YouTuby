@@ -1,7 +1,7 @@
 ## Technologies
 
 - Semantic-UI
-- Youtube API
+- YouTube API
 - Axios
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
