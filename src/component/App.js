@@ -11,7 +11,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("Buildings");
+    this.onTermSubmit("Motivation");
   }
 
   onTermSubmit = async term => {
